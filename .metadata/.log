@@ -4939,3 +4939,18 @@ java.lang.IllegalArgumentException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui 2 2 2022-07-13 14:29:18.996
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-13 14:35:38.491
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dbKCSfWs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-13 14:35:38.493
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.dbKCSfWs
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-13 14:35:38.495
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-07-13 14:35:38.497
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.dbKCSfWs => OK
